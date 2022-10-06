@@ -6,4 +6,3 @@ def pal(num):
        print('not a palindrome')
 
 print(pal('edureka'))
-
